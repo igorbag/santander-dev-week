@@ -4,18 +4,8 @@
 
     <item
         android:id="@+id/item_1"
-        android:title="Menu 1"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/item_2"
-        android:title="Menu 2"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/item_3"
         android:title="Menu 3"
-        android:icon="@drawable/ic_savings_black_24dp"
+        android:icon="@drawable/ic_notifications_none_black_24dp"
         app:showAsAction="ifRoom" />
 
 </menu>
