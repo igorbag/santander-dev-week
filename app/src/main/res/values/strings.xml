@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SantanderDevWeek</string>
+    <string name="txt_saldo_disponivel">Saldo disponível</string>
+    <string name="txt_saldo_limite">Saldo - Limite</string>
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cartao_final">Cartão Final</string>
 </resources>
