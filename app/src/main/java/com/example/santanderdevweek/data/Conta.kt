@@ -1,4 +1,4 @@
-package com.example.santanderdevweek.data
+package com.br.dio.santanderdevweek.data
 
 data class Conta(
     val numero: String,

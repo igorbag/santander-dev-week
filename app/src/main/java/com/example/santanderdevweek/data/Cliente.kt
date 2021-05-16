@@ -1,3 +1,3 @@
-package com.example.santanderdevweek.data
+package com.br.dio.santanderdevweek.data
 
 data class Cliente(val nome: String)

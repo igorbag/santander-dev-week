@@ -1,10 +1,10 @@
-package com.example.santanderdevweek.ui
+package com.br.dio.santanderdevweek.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.santanderdevweek.data.Conta
-import com.example.santanderdevweek.data.local.FakeData
+import com.br.dio.santanderdevweek.data.Conta
+import com.br.dio.santanderdevweek.data.local.FakeData
 
 class MainViewModel : ViewModel() {
     private val mutableLiveData: MutableLiveData<Conta> = MutableLiveData()

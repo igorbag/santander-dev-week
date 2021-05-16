@@ -1,4 +1,4 @@
-package com.example.santanderdevweek
+package com.br.dio.santanderdevweek
 
 import org.junit.Test
 

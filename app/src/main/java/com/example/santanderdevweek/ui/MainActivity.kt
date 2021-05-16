@@ -1,4 +1,4 @@
-package com.example.santanderdevweek.ui
+package com.br.dio.santanderdevweek.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,8 +8,8 @@ import android.view.MenuItem
 import android.widget.TextView
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.example.santanderdevweek.R
-import com.example.santanderdevweek.data.Conta
+import com.br.dio.santanderdevweek.R
+import com.br.dio.santanderdevweek.data.Conta
 
 class MainActivity : AppCompatActivity() {
 
