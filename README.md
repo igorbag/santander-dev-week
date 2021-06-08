@@ -7,6 +7,10 @@ Oi, sou o Igor! Estou aqui para contribuir com meu conhecimento nesse aplicativo
 
 ## <br />Descrição
 1. Preparação do ambiente e criação do nosso primeiro App
+    - https://www.youtube.com/watch?v=J0coM67GCT4
 3. Layouts e diretrizes de design
-4. Padrões arquiteturais e boas práticas de desenvolvimento
-5. Monitoramento e publicação de Apps Android
+    - https://www.youtube.com/watch?v=lC6fJ8wpKn4
+5. Padrões arquiteturais e boas práticas de desenvolvimento
+    - https://www.youtube.com/watch?v=GwVT829d4jc
+7. Monitoramento e publicação de Apps Android
+    - https://www.youtube.com/watch?v=5fp2ZsYHpUg
